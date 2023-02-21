@@ -1,6 +1,6 @@
 {
 "parent": "minecraft:item/generated",
   "textures": {
-      "layer0": "bakalarka:item:/black_opal"
+      "layer0": "bakalarka:item:/Black Opal"
   }
 }
